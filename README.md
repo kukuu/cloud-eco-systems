@@ -1,2 +1,2 @@
-# aws-eco-sytem
-The AWS ecosytem
+# The AWS ecosytem
+
