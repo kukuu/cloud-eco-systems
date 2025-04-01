@@ -5,7 +5,7 @@ The AWS Ecosystem is a comprehensive suite of cloud services designed to support
 ## Compute Services
 AWS offers scalable compute resources through services like EC2 (Elastic Compute Cloud) for virtual servers, Lambda for serverless computing, and ECS/EKS for container orchestration. These services enable flexible application deployment, auto-scaling, and cost optimization. For example, EC2 instances can be paired with Auto Scaling Groups to handle traffic spikes, while Lambda integrates seamlessly with API Gateway for event-driven architectures. Dependencies include VPC (Virtual Private Cloud) for network isolation and IAM (Identity and Access Management) for secure access control.
 
-##  Storage and Databases
+##  Storage and Databases 
 AWS provides robust storage solutions such as S3 (Simple Storage Service) for object storage, EBS (Elastic Block Store) for block storage, and Glacier for archival storage. For databases, RDS (Relational Database Service) supports SQL-based systems like MySQL and PostgreSQL, while DynamoDB offers a NoSQL alternative. These services integrate with CloudWatch for monitoring and Backup for data protection. Dependencies include KMS (Key Management Service) for encryption and IAM for access management.
 
 ##  Networking and Content Delivery
