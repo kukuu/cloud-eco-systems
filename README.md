@@ -140,7 +140,7 @@ Microsoft Azure offers a comprehensive suite of cloud services categorized into 
 
 - GitHub Integration (Microsoft-owned): Tight ecosystem integration.
 
-I### dentity & Security:
+### Identity & Security:
 
 - Azure Active Directory (Azure AD): Identity and access management (SSO, MFA).
 
@@ -168,7 +168,7 @@ I### dentity & Security:
 
 - Azure Resource Manager (ARM): Deployment and management layer (Infrastructure as Code).
 
-  ####  Azure Synapse Analytics
+####  Azure Synapse Analytics
   
 Azure Synapse Analytics is a unified analytics service that integrates data warehousing and big data analytics. It allows users to analyze vast amounts of data, develop insights, and make data-driven decisions. Synapse brings together different capabilities like SQL, Apache Spark, and data integration pipelines, all within a single platform. 
 Here's a breakdown of how Azure Synapse Analytics works:
