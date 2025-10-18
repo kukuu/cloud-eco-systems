@@ -16,6 +16,20 @@ AWS offers tools like CloudWatch for monitoring, CloudTrail for auditing, and Co
 
 The AWS ecosystem is highly interconnected, with services like IAM, VPC, and CloudWatch acting as foundational dependencies. This integration enables businesses to build scalable, secure, and cost-effective solutions tailored to their needs.
 
+
+
+Logging: ELK Stack (Elasticsearch, Logstash, Kibana) / Grafana Loki / Splunk. Centralized logging is essential for debugging.
+
+Metrics: Prometheus & Grafana. The standard combo for collecting and visualizing metrics (CPU, memory, custom business metrics).
+
+APM (Application Performance Monitoring): Datadog, New Relic, Dynatrace. Provides deep insights into application performance, including slow database queries and code-level traces.
+
+Distributed Tracing: Jaeger, Zipkin. Critical for debugging and understanding request flow in a microservices architecture.
+
+Secret Management:
+
+HashiCorp Vault, AWS Secrets Manager, Azure Key Vault: Storing and managing secrets (API keys, passwords, certificates) securely, not in code.
+
 # AZURE ecosytem
 
 Microsoft Azure offers a comprehensive suite of cloud services categorized into several core areas. Here are its key features and services:
