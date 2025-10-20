@@ -30,6 +30,10 @@ Secret Management:
 
 HashiCorp Vault, AWS Secrets Manager, Azure Key Vault: Storing and managing secrets (API keys, passwords, certificates) securely, not in code.
 
+## Deployment
+
+https://github.com/kukuu/BOM-obsolescence/blob/main/cloud-CI-CD-deployment.md
+
 # AZURE ecosytem
 
 Microsoft Azure offers a comprehensive suite of cloud services categorized into several core areas. Here are its key features and services:
